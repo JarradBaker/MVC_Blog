@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\MVC Blog\\Blog\\Blog.Web\\Blog.Web.csproj": {}
+    "C:\\Users\\jarra\\Source\\Repos\\JarradBaker\\MVC_Blog\\Blog\\Blog.Web\\Blog.Web.csproj": {}
   },
   "projects": {
-    "H:\\MVC Blog\\Blog\\Blog.Web\\Blog.Web.csproj": {
+    "C:\\Users\\jarra\\Source\\Repos\\JarradBaker\\MVC_Blog\\Blog\\Blog.Web\\Blog.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\MVC Blog\\Blog\\Blog.Web\\Blog.Web.csproj",
+        "projectUniqueName": "C:\\Users\\jarra\\Source\\Repos\\JarradBaker\\MVC_Blog\\Blog\\Blog.Web\\Blog.Web.csproj",
         "projectName": "Blog.Web",
-        "projectPath": "H:\\MVC Blog\\Blog\\Blog.Web\\Blog.Web.csproj",
+        "projectPath": "C:\\Users\\jarra\\Source\\Repos\\JarradBaker\\MVC_Blog\\Blog\\Blog.Web\\Blog.Web.csproj",
         "packagesPath": "C:\\Users\\jarra\\.nuget\\packages\\",
-        "outputPath": "H:\\MVC Blog\\Blog\\Blog.Web\\obj\\",
+        "outputPath": "C:\\Users\\jarra\\Source\\Repos\\JarradBaker\\MVC_Blog\\Blog\\Blog.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
